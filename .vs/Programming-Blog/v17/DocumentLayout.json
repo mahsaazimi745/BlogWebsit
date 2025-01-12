@@ -1,12 +1,181 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\visioalstdio\\Programming-Blog\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programming-blog\\programming-blog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E22629F-0EC4-462E-905D-A332AF811251}|Programming-Blog.Web\\Programming-Blog.Web.csproj|d:\\visioalstdio\\programming-blog\\programming-blog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E22629F-0EC4-462E-905D-A332AF811251}|Programming-Blog.Web\\Programming-Blog.Web.csproj|solutionrelative:programming-blog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E22629F-0EC4-462E-905D-A332AF811251}|Programming-Blog.Web\\Programming-Blog.Web.csproj|d:\\visioalstdio\\programming-blog\\programming-blog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E22629F-0EC4-462E-905D-A332AF811251}|Programming-Blog.Web\\Programming-Blog.Web.csproj|solutionrelative:programming-blog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programming-blog\\programming-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programming-blog\\programming-blog.datalayer\\entities\\roletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\entities\\roletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programming-blog\\programming-blog.datalayer\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programming-blog\\programming-blog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programming-blog\\programming-blog.datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programming-blog\\programming-blog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|d:\\visioalstdio\\programming-blog\\programming-blog.datalayer\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C7B2D8-D352-4696-8A08-27EBAC5AA6FA}|Programming-Blog.DataLayer\\Programming-Blog.DataLayer.csproj|solutionrelative:programming-blog.datalayer\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Programming-Blog.Web\\appsettings.json",
+              "ToolTip": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.Web\\appsettings.json",
+              "RelativeToolTip": "Programming-Blog.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T11:01:55.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.Web\\Program.cs",
+              "ToolTip": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.Web\\Program.cs",
+              "RelativeToolTip": "Programming-Blog.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:00:48.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Context\\BlogContext.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Context\\BlogContext.cs",
+              "ToolTip": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Context\\BlogContext.cs",
+              "RelativeToolTip": "Programming-Blog.DataLayer\\Context\\BlogContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:58:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Programming-Blog.DataLayer\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:41:05.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Entities\\User.cs",
+              "ToolTip": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\User.cs",
+              "RelativeToolTip": "Programming-Blog.DataLayer\\Entities\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:26:59.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostComment.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\PostComment.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Entities\\PostComment.cs",
+              "ToolTip": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\PostComment.cs",
+              "RelativeToolTip": "Programming-Blog.DataLayer\\Entities\\PostComment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:26:26.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Entities\\Post.cs",
+              "ToolTip": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\Post.cs",
+              "RelativeToolTip": "Programming-Blog.DataLayer\\Entities\\Post.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:22:13.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Entities\\Role.cs",
+              "ToolTip": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\Role.cs",
+              "RelativeToolTip": "Programming-Blog.DataLayer\\Entities\\Role.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:26:38.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleToUser.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\RoleToUser.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Entities\\RoleToUser.cs",
+              "ToolTip": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\RoleToUser.cs",
+              "RelativeToolTip": "Programming-Blog.DataLayer\\Entities\\RoleToUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:26:51.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Programming-Blog.DataLayer\\Entities\\Category.cs",
+              "ToolTip": "D:\\visioalstdio\\Programming-Blog\\Programming-Blog.DataLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "Programming-Blog.DataLayer\\Entities\\Category.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:26:12.5Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -7,10 +7,9 @@ using System.Threading.Tasks;
 
 namespace Programming_Blog.DataLayer.Entities
 {
-    public class Category
+    public  class Category:BaseEntity
     {
-        [Key]
-        public int Id { get; set; }
+       
         [Required]
         public int ParentId { get; set; }
         [Required]
@@ -22,6 +21,9 @@ namespace Programming_Blog.DataLayer.Entities
         public string MetaTag { get; set; }
       
         public int MetaDescription { get; set; }
+       
+        #region Relations 
         public ICollection<Post> Posts { get; set; }
+        #endregion
     }
 }

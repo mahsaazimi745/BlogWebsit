@@ -7,14 +7,16 @@ using System.Threading.Tasks;
 
 namespace Programming_Blog.DataLayer.Entities
 {
-    public class RoleToUser
+    public  class RoleToUser : BaseEntity
     {
-        [Key]
-        public int Id { get; set; }
+
+
         [Required]
         public int UserId { get; set; }
 
         [Required]
         public int RoleId { get; set; }
+
+
     }
 }

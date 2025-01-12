@@ -7,4 +7,16 @@
     <RootNamespace>Programming_Blog.Web</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Programming-Blog.CoreLayer\Programming-Blog.CoreLayer.csproj" />
+    <ProjectReference Include="..\Programming-Blog.DataLayer\Programming-Blog.DataLayer.csproj" />
+  </ItemGroup>
+
 </Project>

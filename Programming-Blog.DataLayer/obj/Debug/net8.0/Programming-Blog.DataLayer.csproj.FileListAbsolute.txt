@@ -1,0 +1,15 @@
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\bin\Debug\net8.0\Programming-Blog.DataLayer.deps.json
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\bin\Debug\net8.0\Programming-Blog.DataLayer.runtimeconfig.json
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\bin\Debug\net8.0\Programming-Blog.DataLayer.dll
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\bin\Debug\net8.0\Programming-Blog.DataLayer.pdb
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.csproj.AssemblyReference.cache
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.AssemblyInfoInputs.cache
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.AssemblyInfo.cs
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.csproj.CoreCompileInputs.cache
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.sourcelink.json
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.dll
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\refint\Programming-Blog.DataLayer.dll
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.pdb
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\Programming-Blog.DataLayer.genruntimeconfig.cache
+D:\visioalstdio\Programming-Blog\Programming-Blog.DataLayer\obj\Debug\net8.0\ref\Programming-Blog.DataLayer.dll

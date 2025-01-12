@@ -8,23 +8,24 @@ using System.Threading.Tasks;
 
 namespace Programming_Blog.DataLayer.Entities
 {
-    public class PostComment
+    public  class PostComment : BaseEntity
     {
-        [Key]
-        public int Id { get; set; }
-       // public int UserId { get; set; }
+
+        // public int UserId { get; set; }
+        [Required]
         public int RoleId { get; set; }
         public int PostId { get; set; }
         [Required]
 
         public string Text { get; set; }
 
-        [ForeignKey("Post")]
+        #region Relations
+        [ForeignKey("PostId")]
         public Post Post { get; set; }
 
         [ForeignKey("RoleId")]
         public Role Role { get; set; }
-
+        #endregion
 
     }
 }
